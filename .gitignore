@@ -8,3 +8,12 @@ xvlog.pb
 .dvt/*
 !.dvt/default.build
 !.dvt/default.ls
+
+# Logi i raporty
+*.log
+*.jou
+
+*.pb
+*.wdb
+
+xsim.dir/*
