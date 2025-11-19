@@ -1,0 +1,10 @@
+# All log files
+*.log
+
+
+xvlog.pb
+
+# .dvt directory except selected files
+.dvt/*
+!.dvt/default.build
+!.dvt/default.ls
