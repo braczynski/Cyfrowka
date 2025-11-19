@@ -1,0 +1,1 @@
+--debug "typical" "cardooralarm_tb" "cardooralarm" --snapshot "top_sim" 
