@@ -1,0 +1,8 @@
+sv work ../../rtl/top.sv \
+    ../../rtl/counter.sv \
+    ../../rtl/sseg.sv \
+    ../../rtl/counter.sv \
+    ../../rtl/ring_counter.sv \
+    ../../rtl/sseg/hex2sseg.sv \
+    ../../rtl/sseg/sseg_mux.sv \
+    top_test.sv

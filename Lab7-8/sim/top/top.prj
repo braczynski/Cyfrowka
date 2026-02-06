@@ -1,0 +1,7 @@
+sv work ../../rtl/top.sv
+sv work ../../rtl/counter.sv
+sv work ../../rtl/uart_tx_out_buffer.sv
+sv work ../../rtl/uart/uart_tx.sv
+sv work ../../rtl/uart/uart_rx.sv 
+sv work ../../rtl/debounce.sv 
+sv work top_test.sv
