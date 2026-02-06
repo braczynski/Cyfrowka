@@ -1,0 +1,1 @@
+"work.ringCounter_test" -snapshot "ringCounter_test" -prj "/home/student/braczynski/code/Lab5/sim/ringCounter/ringCounter.prj" -debug "typical" 
